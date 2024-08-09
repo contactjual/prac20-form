@@ -1,0 +1,44 @@
+body {
+    background-color: #0b0702b3;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.form {
+    color: rgb(106, 236, 106);
+    border: 2px solid rgb(99, 255, 71);
+    width: 80%;
+    margin: 20px auto;
+    text-align: center;
+    /* padding: 0px 30px 20px 25px; */
+}
+.form h1 {
+    font-size: 30px;
+}
+label {
+    display: block;
+    margin-top: 10px;
+}
+.form input {
+    padding: 8px 40px;
+    font-size: 17px;
+    color: rgb(53, 106, 53);
+    border: 1px dotted rgb(0, 0, 0);
+    border-radius: 8px;
+}
+div .message textarea {
+    /* padding: 50px 16%; */
+    width: 63%;
+    height: 100px;
+    border-radius: 8px;
+    color: rgb(106, 236, 106);
+    font-size: 17px;
+} 
+button {
+    padding: 10px 30px;
+    margin: 20px;
+    background-color: chartreuse;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
